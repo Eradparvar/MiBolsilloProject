@@ -3,7 +3,7 @@
 
 Instruction to run code:
 1. Download to the code
-2. Open the terminal where the project was download. (Assumption: The path Java variable is set)
+2. Open the terminal where the project was download. (Assumption: The Java path variable is set)
 ``` 
 javac *.java
 java Main.java 
