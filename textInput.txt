@@ -1,0 +1,26 @@
+2
+AB5
+BC4
+CD8
+DC8
+DE6
+AD5
+CE2
+EB3
+AE7
+done
+1
+A E B C D
+y
+2
+CC3
+y
+3
+AC4
+y
+4
+AC
+y
+5
+CC30
+n

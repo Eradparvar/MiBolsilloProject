@@ -58,7 +58,12 @@ public class Algorithms {
 		Node currentParent = start;
 		queue.addAll(start.getAdjacentNodes().keySet());
 		int currentDepth = 0;
+		int counter = 0;
 		while (currentDepth < max) {
+			counter++;
+			if (counter == 5) {
+				System.out.println();
+			}
 			Node neighbor = queue.remove();
 			parentQueue.add(neighbor);
 			if (neighbor.equals(end)) {
